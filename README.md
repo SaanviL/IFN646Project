@@ -11,9 +11,9 @@ The data required for this project includes RNA-seq raw counts, human genome seq
 ## Most datasets are in the 'Data' folder. Larger data used is available with the following link.
 Human Genome assembly GRCh38 = https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/001/405/GCF_000001405.26_GRCh38/
 
-**-Genomic data (GCF_000001405.26_GRCh38_genomic.fna.gz, 902MB compressed)**
+**- Genomic data (GCF_000001405.26_GRCh38_genomic.fna.gz, 902MB compressed)**
 
-**-Genome annotation (GCF_000001405.26_GRCh38_genomic.gff.gz, 24MB compressed)**
+**- Genome annotation (GCF_000001405.26_GRCh38_genomic.gff.gz, 24MB compressed)**
 
 # Libraries
 DESeq2 and edgeR
