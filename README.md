@@ -12,6 +12,7 @@ Task 2: Design gRNAs for CRISPRa/CRISPRi to target the identified genes and regu
 
 Task 3: Assess gRNA suitability across different human genomes by checking for off-target effects using variant data.
 
+
 This README provides an overview of the data, tasks, and instructions on how to run the analysis.
 
 
