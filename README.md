@@ -10,7 +10,7 @@ This README provides an overview of the data and instructions on how to run the 
 The data required for this project includes RNA-seq raw counts, human genome sequences, annotations, and variant information.
 
 
-**Datasets used can be found in the 'Data' folder. 
+**Datasets used can be found in the 'Data' folder.**
 
 
 # Libraries
