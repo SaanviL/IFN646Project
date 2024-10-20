@@ -5,9 +5,16 @@ This project aims to identify genes with significantly lower expression in COVID
 
 This README provides an overview of the data and instructions on how to run the analysis.
 
-# Tools
-DESeq2 and edgeR
-
 # Data
 The data required for this project includes RNA-seq raw counts, human genome sequences, annotations, and variant information.
+
+# Libraries
+DESeq2 and edgeR
+
+if (!requireNamespace("BiocManager", quietly = TRUE))
+    install.packages("BiocManager")
+
+BiocManager::install("DESeq2")
+BiocManager::install("edgeR")
+
 
