@@ -9,6 +9,7 @@ This README provides an overview of the data and instructions on how to run the 
 The data required for this project includes RNA-seq raw counts, human genome sequences, annotations, and variant information.
 
 **Datasets used can be found in the 'Data' folder. Larger data files used is available with the following link.**
+
 Human Genome assembly GRCh38 = https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/001/405/GCF_000001405.26_GRCh38/
 
 **- Genomic data (GCF_000001405.26_GRCh38_genomic.fna.gz, 902MB compressed)**
