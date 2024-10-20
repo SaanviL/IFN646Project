@@ -7,7 +7,9 @@ This project aims to identify genes with significantly lower expression in COVID
 The primary goal of this project is to identify downregulated genes in COVID-19 patients and use CRISPR technology to modulate their expression. The project is divided into three key tasks:
 
 Task 1: Analyze RNA-seq data to find significantly downregulated genes using differential expression tools.
+
 Task 2: Design gRNAs for CRISPRa/CRISPRi to target the identified genes and regulate their expression.
+
 Task 3: Assess gRNA suitability across different human genomes by checking for off-target effects using variant data.
 
 This README provides an overview of the data, tasks, and instructions on how to run the analysis.
