@@ -1,0 +1,7 @@
+	sampletype	Replicate
+S_2_Rem_5dpi_S70001	Rem	treated
+S_2_SARS_5dpi_S70003	SARS-CoV-2	infected
+S_2_mock_5dpi_S70002	Mock	control
+S_3_Rem_5dpi_S69995	Rem	treated
+S_3_SARS_5dpi_S69996	SARS-CoV-2	infected
+S_3_mock_5dpi_S69997	Mock	control
