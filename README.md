@@ -11,10 +11,12 @@ The data required for this project includes RNA-seq raw counts, human genome seq
 # Libraries
 DESeq2 and edgeR
 
+```R
 if (!requireNamespace("BiocManager", quietly = TRUE))
     install.packages("BiocManager")
 
 BiocManager::install("DESeq2")
 BiocManager::install("edgeR")
+```
 
 
