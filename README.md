@@ -20,10 +20,13 @@ Task 1 focuses on analyzing RNA-seq raw counts to identify genes with significan
 - Figure: Output figures generated from the DESeq2 and edgeR scripts.
 - Meta: **`meta.txt"`** - Information regarding sample types used in the analysis.
 - Results Table: Output table of significant low-expression genes generated from the following R scripts:
-1. **`DESeq2.R`**
-2. **`edgeR.R`**
-3. **`Combine_common_genes.R`**
-- Version Information:Session information for the three R scripts: **`DESeq2.R`**,**`edgeR.R`** and **`Combine_common_genes.R`** to ensure reproducibility.
+1. **`DESeq2.R`**: **`deseq2_SM_low_expression.csv`**
+2. **`edgeR.R`**: **`edgeR_SM_low_expression.csv`**
+3. **`Combine_common_genes.R`**: **`combined_low_expression_genes.csv`**
+- Version Information: Session information for the three R scripts to ensure reproducibility.
+1. **`DESeq2.R`**: **`sessionInfo_DESeq2_R.txt`**
+2. **`edgeR.R`**: **`sessionInfo_edgeR_R.txt`**
+3. **`Combine_common_genes.R`**: **`sessionInfo_Combine_common_genes_R.txt`**
 
 ### Code:
 1. RStudio Project: Task1.Rproj - Organizes all related scripts and resources.
@@ -33,7 +36,7 @@ Task 1 focuses on analyzing RNA-seq raw counts to identify genes with significan
 
 
 ## Task 3: Variant Matching and gRNA Design
-Task 3 involves matching variants from individuals on chromosome 1 with variants on chromosome 2 within the off-target position range to identify potential gRNA targets. All data, code, and output for Task 3 are located in the **`Task_3_Data`** folder.
+Task 3 involves matching variants from individuals on chromosome 1 with variants on chromosome 2 within the off-target position range to identify potential gRNA targets. All data, code, and output for Task 3 are located in the **`Task3_Matched_Code`** folder.
 
 ### **Task3_Matched_Code** Folder Included:
 - Task_3_Data:
