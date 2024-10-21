@@ -41,8 +41,10 @@ Task 3 involves matching variants from individuals on chromosome 1 with variants
 ### **Task3_Matched_Code** Folder Included:
 - Task_3_Data:
 1. Off-Target Table: **`off_target_table.csv`** - List of 38/rev guide off-targets.
-2. Variants from Chromosome 1: **`sampled_chr1.vcf`** - Variant data from 7 individuals on chromosome 1.
-3. Variants from Chromosome 2: **`sampled_chr2.vcf`** - Variant data from the same individuals on chromosome 2.
+2. Variants from Chromosome 1: **`sampled_chr1.vcf.zip`** - Variant data from 7 individuals on chromosome 1.
+3. Variants from Chromosome 2: **`sampled_chr2.vcf.zip`** - Variant data from the same individuals on chromosome 2.
+**NOTE**: The **`sampled_chr1.vcf.zip`** and **`sampled_chr2.vcf.zip`** files are compressed to comply with GitHub's file size limit of 25 MB for individual files. Please unzip these files to obtain the **VCF** files before running the code.
+
 - Matched Genes Table: **`matched_genes.csv`** Variant data of matched genes.
 
 #### Code:
