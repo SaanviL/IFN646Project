@@ -36,9 +36,9 @@ Task 1 focuses on analyzing RNA-seq raw counts to identify genes with significan
 
 
 ## Task 3: Variant Matching and gRNA Design
-Task 3 involves matching variants from individuals on chromosome 1 with variants on chromosome 2 within the off-target position range to identify potential gRNA targets. All data, code, and output for Task 3 are located in the **`Task3_Matched_Code`** folder.
+Task 3 involves matching variants from individuals on chromosome 1 with variants on chromosome 2 within the off-target position range to identify potential gRNA targets. All data, code, and output for Task 3 are located in the **`Task3_Match_Code`** folder.
 
-### **Task3_Matched_Code** Folder Included:
+### **Task3_Match_Code** Folder Included:
 - Task_3_Data:
 1. Off-Target Table: **`off_target_table.csv`** - List of 38/rev guide off-targets.
 2. Variants from Chromosome 1: **`sampled_chr1.vcf.zip`** - Variant data from 7 individuals on chromosome 1.
