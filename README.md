@@ -33,7 +33,6 @@ Task 1 focuses on analyzing RNA-seq raw counts to identify genes with significan
 
 
 ## Task 3: Variant Matching and gRNA Design
-# Overview
 Task 3 involves matching variants from individuals on chromosome 1 with variants on chromosome 2 within the off-target position range to identify potential gRNA targets.
 
 ## Task3_Matched_Code
